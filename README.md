@@ -1,2 +1,2 @@
 # amplifyapp
-Example app for training
+Example app for training, with authentication
